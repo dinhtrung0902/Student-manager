@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+C
+BUS_QLSV/App.config,b\3\b37c75957c7a67947c9fd1cbdd2d29e862ba8c11
+C
+DAL_QLSV/DAL_Hoc.cs,e\2\e227c34ad4a1db8b0791e91f68efed447f088c45
+C
+DTO_QLSV/DTO_Lop.cs,3\d\3d96c67a85804d6f5ed4447dc486bf989e42e308
+E
+GUI_QLSV/frmQLMH.resx,0\f\0fea2c2d7b94b367e632ff2fc3da8231b84ec36f
+C
+GUI_QLSV/frmQLSV.cs,a\b\ab33fcb2f5855dd4ffaca1e303c260447f10a693
+U
+%DAL_QLSV/Properties/Settings.settings,7\f\7f7b78eed594cc1741e206594d3f0505d61c612c
+C
+BUS_QLSV/BUS_Hoc.cs,e\e\ee83fdcf5b798f9f89d78fa9ac8d5cfec1c60bda
+D
+BUS_QLSV/BUS_Diem.cs,0\a\0a5369f501ae31965543b57e48ae757e5c86f4ae
